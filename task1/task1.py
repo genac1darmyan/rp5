@@ -16,7 +16,7 @@ def decrypt_message(ciphertext):
         print(f"Сдвиг {shift}: {decrypted_message}")
 
 # Пример зашифрованного текста (выберите нужный)
-ciphertext = "ФГМКРОНФЩЗТЪЦФЫКШНФНХРТЦЛМИЩЪШИХГЙЫМЫ ЪЧНШНЩН ЯНХГЩНЪЗФРЧНШНМИЯРМИХХГЭ"
+ciphertext = "ВЦЫБЦГЮМЦСФЦЮГВГУСЩЭЦПГХЯВГДАЫЖЯБЯЙЦЪЫ БЩАГЯФБСЕ ЩИЦВЫЯЪГЦЖЮЯЬЯФЩЩ"
 decrypt_message(ciphertext)
 
 
